@@ -19,4 +19,8 @@ git 使用 <<<<<   =======  >>>>>>>   标记不同分支内容
 测试分支管理
 
 Bug 分支
+<<<<<<< Updated upstream
 Bug 分支
+=======
+
+>>>>>>> Stashed changes
