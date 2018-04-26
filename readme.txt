@@ -18,9 +18,14 @@ git 使用 <<<<<   =======  >>>>>>>   标记不同分支内容
 
 测试分支管理
 
+<<<<<<< HEAD
 Bug 分支
 <<<<<<< Updated upstream
 Bug 分支
 =======
 
 >>>>>>> Stashed changes
+=======
+Bug分支
+------
+>>>>>>> master
